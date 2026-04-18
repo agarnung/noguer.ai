@@ -188,7 +188,8 @@ Para mostrar "al público":
 - Uso de servicios dedicados a este tipo de POCs como los **Spaces de Hugging Face** (lo que se hace aquí), Civitai o Glif. Aunque en [esta demo](https://huggingface.co/spaces/agarnung/noguer.ai) se utiliza una versión del modelo (FLUX.1-schnell) más rápida y menos precisa para que queda en las memoria de acceso libre de los espacios de Hugging Face.
 
 > [!INFO]
-> La GPU dinámica (o **ZeroGPU**) es un sistema de Hugging Face que te presta una tarjeta gráfica potente de forma gratuita solo durante los segundos que tarda en ejecutarse el script de _demoo_. Al terminar el proceso, la GPU se libera para otro usuario, permitiéndote ofrecer un modelo pesado como FLUX sin tener que pagar una instancia dedicada 24/7.
+> 
+> La GPU dinámica (o **ZeroGPU**) es un sistema de Hugging Face que te presta una tarjeta gráfica potente de forma gratuita solo durante los segundos que tarda en ejecutarse el script de _demo_. Al terminar el proceso, la GPU se libera para otro usuario, permitiéndote ofrecer un modelo pesado como FLUX sin tener que pagar una instancia dedicada 24/7.
 
 ## Bonus: recomendaciones de estilo
 
