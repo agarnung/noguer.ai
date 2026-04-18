@@ -140,9 +140,9 @@ Todos los pares de texto-imagen se colocan en el volumen del backend de AI-Toolk
 Y la salida de los pesos del modelo entrenado, junto con su configuración y los _checkpoints_ se guardarían automáticamente en `output/`. El árbol de directorios se vería algo así:
 
 <div align="center">
-  <img src="assets/cap4.png" alt="cap4" width="300px" />
-  <img src="assets/cap2.png" alt="cap2" width="300px" />
-  <img src="assets/cap3.png" alt="cap3" width="300px" />
+  <img src="assets/cap4.png" alt="cap4" width="250px" />
+  <img src="assets/cap2.png" alt="cap2" width="250px" />
+  <img src="assets/cap3.png" alt="cap3" width="250px" />
 </div>
 
 En pleno entrenamiento, se pueden configurar muestras de validación cada ciertas iteraciones, para monitorizar cómo va evolucionando:
