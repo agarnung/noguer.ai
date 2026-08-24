@@ -216,3 +216,4 @@ Para forzar a **FLUX** a ignorar el fotorrealismo y adoptar un estilo de **ilust
 ## TODO
 
 - El modelo entrenado es una primera iteración; es muy simple, estaría bien recopilar muchos más dibujos, incluso a color, de los vídeos de los Ultrahsows, etc.
+- Hacer otro pero para caricaturizar rostros, como [la tía esta de Instagram](https://www.instagram.com/p/DYx3gskgc3I/).
